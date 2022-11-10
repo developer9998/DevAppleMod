@@ -24,3 +24,6 @@ This crate is where you put apples in, depending on the apple you put in, you wi
 ## Kiosk
 The apple kiosk lets you start and end a game of hunting apples whenever you want.   
 **If you leave the room code, the game will automatically end.**
+
+# Legal 
+This product is not affiliated with Gorilla Tag or Another Axiom LLC and is not endorsed or otherwise sponsored by Another Axiom LLC. Portions of the materials contained herein are property of Another Axiom LLC. ©2021 Another Axiom LLC.
