@@ -17,7 +17,7 @@ This crate is where you put apples in, depending on the apple you put in, you wi
 | Red Delicious | Default | 1 |
 | Granny Smith | 1/5 | 2 |
 | Gala | 1/5 | 2 |
-| Gold Delicious | 2/15 | 5 |
+| Gold Delicious | 1/30 | 5 |
 | Orange | 1/125 | 10 |
 | Rainbow | 1/200 | 20 |
 
